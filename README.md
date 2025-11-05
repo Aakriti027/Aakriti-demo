@@ -1,2 +1,3 @@
 # Aakriti-demo
-My first git repository.
+My first Git repository.
+Author- Aakriti
