@@ -1,3 +1,3 @@
 # Aakriti-demo
 My first Git repository.
-Author- Aakriti
+Author- Aakriti Jha
